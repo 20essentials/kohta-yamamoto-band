@@ -1,0 +1,23 @@
+export const nameBand = 'KOHTA YAMAMOTO';
+export const nameSongs = [
+	"ASHES ON THE FIRE", /*1*/
+	"COLD LIGHT", /*2*/
+	"SPLINTER WOLF", /*3*/
+	"FRIENDSHIPS", /*4*/
+	"AN ORDINARY DAY", /*5*/
+	"THE WARRIORS", /*6*/
+	"ARC OF THE ASHES", /*7*/
+	"FOOTSTEPS OF DOOM", /*8*/
+	"ƏT'AEK TILL WE ARE ASHES", /*9*/
+	"TRAITOR", /*10*/
+	"GUILTY HERO", /*11*/
+	"THE OTHER SIDE OF THE SEA", /*12*/
+	"ZEEK'S PLAN", /*13*/
+	"THE FALL OF MARLEY", /*14*/
+	"FROM YOU, 2,000 YEARS AGO", /*15*/
+	"NIGHTMARE", /*16*/
+	"ALL OF THE FREEDOMS", /*17*/
+	"NIGHT OF THE END", /*18*/
+	"MEMORY LANE", /*19*/
+	"THE SUCCESSOR", /*20*/
+]
